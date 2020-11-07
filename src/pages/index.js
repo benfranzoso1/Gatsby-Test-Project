@@ -13,7 +13,7 @@ export default function HomePage() {
                     "@type": "Service",
                     "serviceType": "Landscaping",
                     "provider": {
-                        "@type: "LocalBusiness",
+                        "@type": "LocalBusiness",
                         "name": "Culling's Landscaping"
                     },
                     "areaServed" : [
